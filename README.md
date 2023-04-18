@@ -2,6 +2,7 @@
 <h3 align="center">A passionate and highly motivated junior frontend developer from Poland.✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandra-a-a-a&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandra-a-a-a" /> </p>
+<img align="right" alt="coding" width="400" src="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw">
 
 - 🌱 I’m currently learning **Typescript, UI/UX design**
 
